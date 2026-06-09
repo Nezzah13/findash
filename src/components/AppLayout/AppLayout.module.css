@@ -1,0 +1,22 @@
+.layout {
+  min-height: 100vh;
+}
+
+.sider {
+  box-shadow: 1px 0 0 rgba(0, 0, 0, 0.06);
+}
+
+.logo {
+  display: flex;
+  align-items: center;
+  gap: 9px;
+  height: 64px;
+  padding: 0 22px;
+  font-size: 1.15rem;
+  font-weight: 700;
+  color: #16b39a;
+}
+
+.menu {
+  border-inline-end: none;
+}
