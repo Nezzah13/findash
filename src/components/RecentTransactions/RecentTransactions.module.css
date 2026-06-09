@@ -1,0 +1,11 @@
+.positive {
+  color: #1f9a52;
+  font-weight: 600;
+  white-space: nowrap;
+}
+
+.negative {
+  color: #e0524d;
+  font-weight: 600;
+  white-space: nowrap;
+}
