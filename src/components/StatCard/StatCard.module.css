@@ -1,0 +1,40 @@
+.card {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 6px;
+  min-height: 112px;
+  padding: 22px 24px;
+  border-radius: 14px;
+  color: #fff;
+  box-shadow: 0 6px 16px rgba(0, 0, 0, 0.08);
+}
+
+.value {
+  font-size: 1.65rem;
+  font-weight: 700;
+  line-height: 1.1;
+}
+
+.label {
+  font-size: 0.8rem;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  opacity: 0.9;
+}
+
+.teal {
+  background: linear-gradient(135deg, #15b8a6, #0e8e7f);
+}
+
+.orange {
+  background: linear-gradient(135deg, #f0883e, #e0682b);
+}
+
+.green {
+  background: linear-gradient(135deg, #34b56a, #1f9a52);
+}
+
+.blue {
+  background: linear-gradient(135deg, #2f97d6, #1f6fb0);
+}
